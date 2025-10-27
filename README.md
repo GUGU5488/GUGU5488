@@ -1,6 +1,16 @@
-## Hi there 👋
+<h1 aligh="left"> Hi there 👋 <h/1>
 
-<!--
+<h3 align="left"> 🛠 Tech Stack 🛠 </h3>
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+<!-- 
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=GUGU5488&theme=transparent&show_icons=true"/></a>
+</p>
+
+
+
 **GUGU5488/GUGU5488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
